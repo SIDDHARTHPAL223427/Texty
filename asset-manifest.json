@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Texty/static/css/main.f855e6bc.css",
+    "main.js": "/Texty/static/js/main.832eaa3f.js",
+    "static/js/453.dd27785c.chunk.js": "/Texty/static/js/453.dd27785c.chunk.js",
+    "index.html": "/Texty/index.html",
+    "main.f855e6bc.css.map": "/Texty/static/css/main.f855e6bc.css.map",
+    "main.832eaa3f.js.map": "/Texty/static/js/main.832eaa3f.js.map",
+    "453.dd27785c.chunk.js.map": "/Texty/static/js/453.dd27785c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.832eaa3f.js"
+  ]
+}
